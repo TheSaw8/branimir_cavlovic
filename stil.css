@@ -1,6 +1,6 @@
 @font-face {
     font-family: "BranimirCavlovic";
-    src: url(fontovi\BranimirCavlovic.ttf) format("truetype");
+    src: url('fontovi\BranimirCavlovic.ttf') format("truetype");
 }
 
 body {
